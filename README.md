@@ -72,4 +72,10 @@ Superstore Dataset – Retail transactional data
 Data Modeling & Measures – DAX calculations for KPIs and YoY metrics
 Data Transformation – Cleaning, aggregation, and filtering
 
-Visual Analytics – Maps, KPI cards, bar charts, line charts, and tables
+Visual Analytics – Maps, KPI cards, bar charts, line charts, and tables.
+
+<img width="923" height="712" alt="image" src="https://github.com/user-attachments/assets/35f74f41-6d2b-4a93-926a-495dda578e18" />
+<img width="932" height="742" alt="image" src="https://github.com/user-attachments/assets/d958ef0e-7344-4e62-acf8-e7c02d4d3741" />
+<img width="931" height="727" alt="image" src="https://github.com/user-attachments/assets/1e224011-a9b3-406e-9d9f-e54c72be25dc" />
+<img width="937" height="737" alt="image" src="https://github.com/user-attachments/assets/d0f6e1dd-6788-4f9a-8211-52bee8854e3b" />
+
